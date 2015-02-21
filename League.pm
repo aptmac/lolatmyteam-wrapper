@@ -25,7 +25,7 @@ my $baseURL = "https://na.api.pvp.net/api/lol";
 #Set the Region of interest
 my $region = "na";
 #Set the API Key
-my $key = "8cdd8483-d12f-4c16-a623-d603191c3c2f";
+my $key = "YOUR_API_KEY_HERE";
 
 ########################################################################
 # 2. league/by-summoner/{summonerId}/entry
