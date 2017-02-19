@@ -1,4 +1,7 @@
 # lolatmyteam-wrapper
+
+ATTENTION As of September 2X, 2015, the Riot API has removed the MatchHistory API that I used to build this application, therefore running my code will result in only a partially correct output.
+
 Perl wrapper for the Riot Games Inc. API [02.2015]
 
 These Perl modules were designed to wrap the Riot API to retrieve information regarding League of Legends player data.
